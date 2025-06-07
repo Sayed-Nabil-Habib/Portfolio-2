@@ -9,29 +9,30 @@ const projects = [
   {
     id: 1,
     title: 'JavaScript Frameworks',
-    article: '...',
+    article: 'This is a simple e-commerce store built with React. The store allows users to browse products, view details, add items to the cart, and complete a checkout process. A Scroll to Top button was added as an improvement for better user experience',
+  
     image: jsFrameworksImg,
     live: 'https://storied-sunflower-20e524.netlify.app/',
     github: 'https://github.com/Sayed-Nabil-Habib/Online-Store',
-    reflections: '...'
+    reflections: '- Implemented a "Scroll to Top" button to improve user navigation experience, especially on long pages Enhanced UI feedback and interactivity'
   },
   {
     id: 2,
     title: 'Semester Project 2',
-    article: '...',
+    article: 'This project was developed as part of Semester Project 2. It is a responsive single-page application that allows users to browse auction-style listings, log in, post their own items, and interact with other users',
     image: semesterProjectImg,
     live: 'https://elio1.netlify.app/',
     github: 'https://github.com/Sayed-Nabil-Habib/semesterProject2',
-    reflections: '...'
+    reflections: 'Added brand logo to the navbar for better visual identity and branding.Improved accessibility by including descriptive alt text for all images, making the site more inclusive and SEO-friendly.Cleaned up and organized the HTML layout and spacing for easier maintenance and better readability'
   },
   {
     id: 3,
     title: 'Exam Project 2',
-    article: '...',
+    article: 'This is a simple e-commerce store built with React. The store allows users to browse products, view details, add items to the cart, and complete a checkout process. A Scroll to Top button was added as an improvement for better user experience',
     image: examProjectImg,
     live: 'https://melodic-kheer-aa1fce.netlify.app/',
     github: 'https://github.com/Sayed-Nabil-Habib/Online-Store',
-    reflections: '...'
+    reflections: 'Provided improvement suggestions to enhance project complexity and performance.These included: authentication system, filtering and sorting for listings, global state management, calendar-based booking, and routing with React Router.Suggestions were documented and added to the README file for future development.'
   }
 ];
 
