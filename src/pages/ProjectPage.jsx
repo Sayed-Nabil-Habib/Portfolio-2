@@ -31,7 +31,7 @@ const projects = [
     article: 'This is a simple e-commerce store built with React. The store allows users to browse products, view details, add items to the cart, and complete a checkout process. A Scroll to Top button was added as an improvement for better user experience',
     image: examProjectImg,
     live: 'https://melodic-kheer-aa1fce.netlify.app/',
-    github: 'https://github.com/Sayed-Nabil-Habib/Online-Store',
+    github: 'https://github.com/Sayed-Nabil-Habib/EasyStay',
     reflections: 'Provided improvement suggestions to enhance project complexity and performance.These included: authentication system, filtering and sorting for listings, global state management, calendar-based booking, and routing with React Router.Suggestions were documented and added to the README file for future development.'
   }
 ];
